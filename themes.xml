@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#05070B</color>
+
+    <style name="Theme.SmartClockLive" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <style name="Theme.SmartClockLive.AOD" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

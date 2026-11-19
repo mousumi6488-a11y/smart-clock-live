@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">স্মার্ট ক্লক লাইভ</string>
+    <string name="widget_small_name">স্মার্ট ক্লক কমপ্যাক্ট (২×১)</string>
+    <string name="widget_small_desc">তারিখ ও স্থানীয় সময়সহ সংক্ষিপ্ত ডিজিটাল ঘড়ি।</string>
+    <string name="widget_medium_name">স্মার্ট ক্লক ও মুদ্রা (৪×২)</string>
+    <string name="widget_medium_desc">ডিজিটাল ঘড়ি, তারিখ এবং পছন্দের মুদ্রার লাইভ বিনিময় হার।</string>
+    <string name="widget_large_name">স্মার্ট ক্লক স্টুডিও (৪×৩)</string>
+    <string name="widget_large_desc">পূর্ণাঙ্গ ডিজিটাল ঘড়ি ও লাইভ মুদ্রা বোর্ড উইজেট।</string>
+</resources>
